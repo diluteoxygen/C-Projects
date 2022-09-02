@@ -4,3 +4,16 @@ This is a list of C programming projects which covers the basic and advanced con
 
 The following C programming projects simple as well as advanced programs. The best way to learn them is by practicing all of the projects. Understand the logic in the iteration wise so that, you can write your own logic for more difficult programs in the future.
 
+## Contents
+This list contains programs on the following topics.
+- [The Basics](#the-basics)
+- [Numbers](#numbers)
+- [Conversions](#conversions)
+- [Character Checks](#character-checks)
+- [Print Series](#print-series)
+- [Patterns & Shapes](#pattern-&-shapes)
+- [Strings](#strings)
+- [Arrays](#arrays)
+- [Matrix](#matrix)
+- [Sorting](#sorting)
+- [Pointers](#pointers)

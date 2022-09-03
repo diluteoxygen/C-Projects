@@ -7,9 +7,9 @@ The following C programs include simple as well as advanced programs. The best w
 
 ## Contents
 This list contains programs on the following topics.
-- [The Basics](#the-basics)
-- [Numbers](#numbers)
-- [Conversions](#conversions)
+- [The Basics](https://github.com/diluteoxygen/C-Projects/tree/main/Contents/%5BA%5D%20The%20Basics)
+- [Numbers](https://github.com/diluteoxygen/C-Projects/tree/main/Contents/%5BB%5D%20Numbers)
+- [Conversions](https://github.com/diluteoxygen/C-Projects/tree/main/Contents/%5BC%5D%20Conversions)
 - [Character Checks](#character-checks)
 - [Print Series](#print-series)
 - [Patterns/Shapes](#shape-and-pattern)

@@ -1,4 +1,4 @@
-# C Projects for Everyone
+# Easy C Projects for Beginners
 
 This is a list of C programming projects which covers the basic and advanced concepts that include programs on numbers, loop programs, functions, recursions and more.
 

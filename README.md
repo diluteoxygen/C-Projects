@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/diluteoxygen/C-Projects/main/Templates/Logo.png)
+![](https://raw.githubusercontent.com/diluteoxygen/C-Projects/main/Misc/Logo.png)
 
 This is a list of C programming projects which covers the basic and advanced concepts that include programs on numbers, loop programs, functions, recursions and more.
 

@@ -1,4 +1,4 @@
-# Easy C Projects for Beginners
+![](https://raw.githubusercontent.com/diluteoxygen/C-Projects/main/Templates/Logo.png)
 
 This is a list of C programming projects which covers the basic and advanced concepts that include programs on numbers, loop programs, functions, recursions and more.
 
@@ -20,7 +20,7 @@ This list contains programs on the following topics.
 - [Sorting](#sorting)
 - [Pointers](#pointers)
 
-# The Basics
+# [The Basics](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BA%5D%20The%20Basics)
 The following basic programs cover the fundamentals of C programming.
 | S. No 	| Project Name 	| Read Source 	| Direct Download 	| Comments 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|
@@ -74,7 +74,7 @@ The following basic programs cover the fundamentals of C programming.
 
 
 
-# Numbers
+# [Numbers](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BB%5D%20Numbers)
 The following programs deals with Numbers.
 | **S. No** 	| **Project Name** 	| **Read Source** 	| **Direct Download** 	| **Comments** 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|
@@ -115,7 +115,7 @@ The following programs deals with Numbers.
 | 35 	| Total Notes in a Given Amount 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Help%20book.gif"   /></a> 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif"   /></a> 	| ❗ 	|
 
 
-# Conversions
+# [Conversions](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BC%5D%20Conversions)
 These are the common conversion programs.
 | **S. No** 	| **Project Name** 	| **Read Source** 	| **Direct Download** 	| **Comments** 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|
@@ -131,30 +131,35 @@ These are the common conversion programs.
 | 10 	| Octal to Decimal 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Help%20book.gif"   /></a> 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif"   /></a> 	| ❗ 	|
 
 
-# Character Checks
+# [Character Checks](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BD%5D%20Character%20Checks)
 Insert Desc
 Insert Table 
-# Print Series
+# [Print Series](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BE%5D%20Print%20Series)
 Insert Desc
 Insert Table 
-# Shape and Pattern
+# [Shape and Pattern](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BF%5D%20Patterns%20%26%20Shapes)
+Insert Desc
+- Alphabet Patterns
+![Insert Table]()
+- Number Patterns
+![Insert Table]()
+- Shape Patterns
+!Insert Table]()
+# [Strings](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BG%5D%20Strings)
 Insert Desc
 Insert Table 
-# Strings
+# [Arrays](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BH%5D%20Arrays)
 Insert Desc
 Insert Table 
-# Arrays
+# [Matrix](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BI%5D%20Matrix)
 Insert Desc
 Insert Table 
-# Matrix
+# [Sorting](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BJ%5D%20Sorting)
 Insert Desc
 Insert Table 
-# Sorting
-Insert Desc
-Insert Table 
-# Pointers
+# [Pointers](https://github.com/diluteoxygen/C-Projects/tree/main/Projects/%5BK%5D%20Pointers)
 Insert Desc
 Insert Table 
 
-- End
+
 

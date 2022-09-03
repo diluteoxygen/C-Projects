@@ -13,7 +13,7 @@ This list contains programs on the following topics.
 - [Conversions](#conversions)
 - [Character Checks](#character-checks)
 - [Print Series](#print-series)
-- [Patterns & Shapes](#pattern-&-shapes)
+- [Patterns/Shapes](#shape-and-pattern)
 - [Strings](#strings)
 - [Arrays](#arrays)
 - [Matrix](#matrix)
@@ -131,9 +131,30 @@ These are the common conversion programs.
 | 10 	| Octal to Decimal 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Help%20book.gif"   /></a> 	| <a href="INSERT LINK"   target="blank"><img align="center"   src="https://raw.githubusercontent.com/Pireo/hello-world/master/Download.gif"   /></a> 	| ❗ 	|
 
 
+# Character Checks
+Insert Desc
+Insert Table 
+# Print Series
+Insert Desc
+Insert Table 
+# Shape and Pattern
+Insert Desc
+Insert Table 
+# Strings
+Insert Desc
+Insert Table 
+# Arrays
+Insert Desc
+Insert Table 
+# Matrix
+Insert Desc
+Insert Table 
+# Sorting
+Insert Desc
+Insert Table 
+# Pointers
+Insert Desc
+Insert Table 
 
-
-
-
-
+- End
 
